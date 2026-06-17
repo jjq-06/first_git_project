@@ -1,1 +1,2 @@
-MY name is Junaid and i am teaching Python online. I am doing my first github project.
+MY name is Junaid and i am teaching Python online. I am doing my first github project. 
+I am living in Karachi, Pakistan. 
